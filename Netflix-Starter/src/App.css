@@ -1,0 +1,44 @@
+.appDiv{
+    background-image: linear-gradient(#122c64, #050224);
+    width: 110vw;
+    height: 300vw;
+}
+
+.sc-dkQkyq{
+    color: white;
+    font-weight: bold;
+}
+.cqVapy{
+    border-bottom: 2px solid #c4c7f5 !important;
+}
+
+.sc-JkixQ {
+    margin-left: 120px;
+    position: fixed;
+    z-index: 2;
+}
+
+.sc-gGPzkF {
+    padding-top: 50px !important;
+}
+
+.sc-dVNjXY {
+    background-color: #07052c !important;
+    margin-top: 20px;
+}
+
+.sc-bQtKYq {
+    padding: 5px !important;
+}
+
+.sc-egiyK {
+    z-index: 1 !important;
+    font-size: 12px !important;
+    padding:5px !important;
+}
+
+.sc-FNXRL {
+    background-color: rgba(0,0,0,0.7) !important;
+    transition: background-color 1000ms linear !important;
+}
+
